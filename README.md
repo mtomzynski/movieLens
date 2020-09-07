@@ -8,8 +8,8 @@ Analysis of movielens.org dataset
 * [Analysis](#analysis)
   * [Python](#python)
   * [Apache Spark RDD](#apache-spark-rdd)
-  * [Apache Spark SQL](#apache-spark-sql)
-  * [PowerBI Report](#powerbi-report)
+  * [Apache Spark SQL (to be done)](#apache-spark-sql)
+  * [PowerBI Report (to be done)](#powerbi-report)
 
 ## General Information
 Source of the dataset: https://grouplens.org/datasets/movielens/25m/
