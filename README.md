@@ -57,6 +57,5 @@ See detailed result in [folder Apache Spark RDD](http://github.com/mtomzynski).
 2. Number of rates for each movie
 3. How many movies were assign to specific genre?
 4. Number of movies for each year
-5. Average rate for each year and genre
 
 See detailed result in [folder Apache Spark SQL](http://github.com/mtomzynski).
