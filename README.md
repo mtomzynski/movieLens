@@ -8,7 +8,7 @@ Analysis of movielens.org dataset
 * [Analysis](#analysis)
   * [Python](#python)
   * [Apache Spark RDD](#apache-spark-rdd)
-  * [Apache Spark SQL (#apache-spark-sql)
+  * [Apache Spark SQL] (#apache-spark-sql)
   * [PowerBI Report (to be done)](#powerbi-report)
 
 ## General Information
