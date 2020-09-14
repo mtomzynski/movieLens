@@ -54,7 +54,7 @@ See detailed result in [folder Python](https://github.com/mtomzynski/movieLens/t
 See detailed result in [folder Apache Spark RDD](https://github.com/mtomzynski/movieLens/tree/master/Apache%20Spark%20RDD).
 
 ### Apache Spark DataFrame and SQL
-1. Top 10 movies (only those with more than 20 rates)
+1. Top 10 movies (only those with more than 50 rates)
 2. Number of rates for each movie
 3. How many movies were assign to specific genre?
 4. Number of movies for each year
