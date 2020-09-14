@@ -8,7 +8,8 @@ Analysis of movielens.org dataset
 * [Analysis](#analysis)
   * [Python](#python)
   * [Apache Spark RDD](#apache-spark-rdd)
-  * [Apache Spark SQL](#apache-spark-sql)
+  * [Apache Spark SQL (to be done)](#apache-spark-sql)
+  * [PowerBI Report (to be done)](#powerbi-report)
 
 ## General Information
 Source of the dataset: https://grouplens.org/datasets/movielens/25m/
@@ -40,7 +41,7 @@ There is list of 15 analytical questions I would like to answer using different 
 4. Correlation between number of rates and average rate
 5. Correlation between average rate and year
 
-See detailed result in [folder Python](http://github.com/mtomzynski).
+See detailed result in [folder Python](https://github.com/mtomzynski/movieLens/tree/master/Apache%20Spark%20Python).
 
 ### Apache Spark RDD
 1. Average rate for each movie
@@ -50,7 +51,7 @@ See detailed result in [folder Python](http://github.com/mtomzynski).
 * 10 most rated movie
 * 10 least rated movie
 
-See detailed result in [folder Apache Spark RDD](http://github.com/mtomzynski).
+See detailed result in [folder Apache Spark RDD](https://github.com/mtomzynski/movieLens/tree/master/Apache%20Spark%20RDD).
 
 ### Apache Spark DataFrame and SQL
 1. Top 10 movies (only those with more than 20 rates)
