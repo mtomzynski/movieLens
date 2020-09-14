@@ -59,4 +59,4 @@ See detailed result in [folder Apache Spark RDD](https://github.com/mtomzynski/m
 3. How many movies were assign to specific genre?
 4. Number of movies for each year
 
-See detailed result in [folder Apache Spark SQL](http://github.com/mtomzynski).
+See detailed result in [folder Apache Spark SQL](https://github.com/mtomzynski/movieLens/tree/master/Apache%20Spark%20SQL).
