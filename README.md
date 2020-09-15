@@ -8,8 +8,7 @@ Analysis of movielens.org dataset
 * [Analysis](#analysis)
   * [Python](#python)
   * [Apache Spark RDD](#apache-spark-rdd)
-  * [Apache Spark DataFrame and SQL] (#apache-spark-dataframe-and-sql)
-  * [PowerBI Report (to be done)](#powerbi-report)
+  * [Apache Spark DataFrame and SQL](#apache-spark-dataframe-and-sql)
 
 ## General Information
 Source of the dataset: https://grouplens.org/datasets/movielens/25m/
@@ -59,4 +58,4 @@ See detailed result in [folder Apache Spark RDD](https://github.com/mtomzynski/m
 3. How many movies were assign to specific genre?
 4. Number of movies for each year
 
-See detailed result in [folder Apache Spark SQL](http://github.com/mtomzynski).
+See detailed result in [folder Apache Spark SQL](https://github.com/mtomzynski/movieLens/tree/master/Apache%20Spark%20SQL).
