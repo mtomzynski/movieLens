@@ -1,6 +1,4 @@
---
-**[See my other projects(https://github.com/mtomzynski?tab=repositories)]**
---
+**[See my other projects](https://github.com/mtomzynski?tab=repositories)**
 
 # movieLens
 Analysis of movielens.org dataset
